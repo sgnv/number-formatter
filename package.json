@@ -1,0 +1,19 @@
+{
+  "name": "number-formatter",
+  "version": "0.1.0",
+  "description": "yeah test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgnv/number-formatter.git"
+  },
+  "author": "Sirinan Gannigathananon <windsbreeze@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sgnv/number-formatter/issues"
+  },
+  "homepage": "https://github.com/sgnv/number-formatter#readme"
+}
